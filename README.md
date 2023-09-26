@@ -63,7 +63,7 @@ body{
     justify-content: center;
     align-items: center;
     letter-spacing: 1px;
-    background-color: #0c1022;
+    background-color: <img src="IMG_20230919_234504.jpg">
 }
 .login_form_container{
     position: relative;
@@ -85,7 +85,7 @@ body{
     width: 170%;
     height: 170%;
     content: '';
-    background-image:IMG_20230919_234504.jpg  (transparent, transparent, transparent, #ee00ff);
+    background-image:img src="IMG_20230919_234504.jpg" (transparent, transparent, transparent, #ee00ff);
     animation: rotate_border 6s linear infinite;
 
 }
@@ -95,7 +95,7 @@ body{
     width: 170%;
     height: 170%;
     content: '';
-    background-image: conic-gradient(transparent, transparent, transparent, #00ccff);
+    background-image:IMG_20230919_234504.jpg(transparent, transparent, transparent, #00ccff);
     animation: rotate_border 6s linear infinite;
     animation-delay: -3s;
 }

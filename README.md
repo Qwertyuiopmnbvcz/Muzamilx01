@@ -11,7 +11,7 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
     />
     <link rel="stylesheet" href="login.css" />
-    <img src"IMG_20230919_234504.jpg">
+    
   </head>
   <body>
     <div class="login_form_container">
@@ -62,7 +62,7 @@ body{
     justify-content: center;
     align-items: center;
     letter-spacing: 1px;
-    background-color: #0c1022;
+    background-color: 
 }
 .login_form_container{
     position: relative;

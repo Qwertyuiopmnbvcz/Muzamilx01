@@ -71,7 +71,7 @@ body{
     height: 470px;
     max-width: 400px;
     max-height: 470px;
-    background: #040717;
+    background:<img src="IMG_20230919_234504.jpg">
     border-radius: 50px 5px;
     display: flex;
     align-items: center;
@@ -85,7 +85,7 @@ body{
     width: 170%;
     height: 170%;
     content: '';
-    background-image: conic-gradient(transparent, transparent, transparent, #ee00ff);
+    background-image:IMG_20230919_234504.jpg  (transparent, transparent, transparent, #ee00ff);
     animation: rotate_border 6s linear infinite;
 
 }
